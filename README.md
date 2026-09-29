@@ -1,0 +1,2 @@
+# premium-oak-sel-001-cooperage-oak-selection-grain
+Tired of inconsistent barrel quality because your oak grain and split data is scattered across notebooks and sticky notes?  The Cooperage Oak Selection Grain and Split Record is the first Notion template built specifically for tracking every stave’s grain pattern, split orientation, and selection history. It eliminates guesswork, ensures repeatable
